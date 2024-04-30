@@ -1,8 +1,10 @@
-# Team_Projects
+<h4> 
+     Team_Projects
+</h4>
 # Team_member
-<h6>
-    Name: Mahmudul Hasan Topu ;
-    ID: 0112330164 ; 
-    Name: Sadika Binti Noor ;
-    ID: 0112330453 ;
-</h6>
+<h1>
+    Name: Mahmudul Hasan Topu ; <br>
+    ID: 0112330164 ;  <br>
+    Name: Sadika Binti Noor ; <br>
+    ID: 0112330453 ; <br>
+</h1>
